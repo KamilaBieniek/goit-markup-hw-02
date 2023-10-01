@@ -1,4 +1,4 @@
-body {
+:root {
     font-family: "Roboto", sans-serif; color: #434455; background-color: #FFFFFF;}
 .title { font-weight: 500;}
 .logo {font-family: "Raleway",sans-serif; font-weight: 800; font-size: 18px; color: #4d5ae5; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
@@ -17,7 +17,7 @@ body {
 .order-button:hover,
 .order-button:focus {background-color: #404BBF; cursor: pointer;}
 .headline { color: #2E2F42; font-size: 20px; font-weight: 500; line-height: 1.2; letter-spacing: 0.02em;}
-.text { line-height: 1.5; letter-spacing: 0.02em;}
+.text { color: #434445; line-height: 1.5; letter-spacing: 0.02em;}
 .main-title { color: #2E2F42; font-size: 36px; line-height: 1.11; letter-spacing: 0.02em; text-align: center; text-transform: capitalize;}
 .team {background-color: #F4F4FD;}
 .team-card{background-color: #FFFFFF;}
