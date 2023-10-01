@@ -1,5 +1,5 @@
 body { font-family: "Roboto", sans-serif; color: #434455; background-color: #FFFFFF;}
-:root{
+:root{color: var(--brand-color)}
 .title { font-weight: 500;}
 .logo {font-family: "Raleway",sans-serif; font-weight: 800; font-size: 18px; color: #4d5ae5; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 .link {text-decoration: none;}
@@ -26,6 +26,6 @@ body { font-family: "Roboto", sans-serif; color: #434455; background-color: #FFF
 .text-footer {color: #F4F4FD; line-height: 1.5; letter-spacing: 0.02em;}
 .filter-button { color: #4D5AE5; background-color: #F4F4FD; font-family: "Roboto", sans-serif; font-size: 16px; font-weight: 500; line-height: 1.5; letter-spacing: 0.04em;}
 .filter-button:hover,
-.filter-button:focus { color: #FFFFFF; background-color: #404BBF; cursor: pointer;}}
+.filter-button:focus { color: #FFFFFF; background-color: #404BBF; cursor: pointer;}
 
 
